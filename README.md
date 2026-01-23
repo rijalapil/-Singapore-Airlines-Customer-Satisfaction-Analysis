@@ -1,4 +1,4 @@
-# -Singapore-Airlines-Customer-Satisfaction-Analysis <img width="2133" height="2133" alt="singapore-airlines-logo-icon-png-svg" src="https://github.com/user-attachments/assets/6f6e3b44-9cb8-4628-81ce-c303a423cfcc" />
+# -Singapore-Airlines-Customer-Satisfaction-Analysis <img width="150" height="150" alt="singapore-airlines-logo-icon-png-svg" src="https://github.com/user-attachments/assets/6f6e3b44-9cb8-4628-81ce-c303a423cfcc" />
 
 
 This project focuses on analyzing customer satisfaction data for Singapore Airlines using a large-scale passenger dataset stored in Azure SQL Database and accessed through Jupyter Notebook with Python. 
