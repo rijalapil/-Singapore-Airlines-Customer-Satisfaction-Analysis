@@ -1,4 +1,5 @@
-# -Singapore-Airlines-Customer-Satisfaction-Analysis <img width="256" height="256" alt="singapore-airlines-logo-tail" src="https://github.com/user-attachments/assets/87273b95-a8d7-4de8-a3ae-64c2525e5c1d" />
+# -Singapore-Airlines-Customer-Satisfaction-Analysis <img width="2133" height="2133" alt="singapore-airlines-logo-icon-png-svg" src="https://github.com/user-attachments/assets/6f6e3b44-9cb8-4628-81ce-c303a423cfcc" />
+
 
 This project focuses on analyzing customer satisfaction data for Singapore Airlines using a large-scale passenger dataset stored in Azure SQL Database and accessed through Jupyter Notebook with Python. 
 
@@ -47,7 +48,5 @@ Azure SQL Database: The dataset is stored in a cloud-based SQL environment, simu
 Jupyter Notebook (Python): Comprehensive data cleaning, exploration, and analysis using Pandas, NumPy, and Matplotlib/Seaborn.
 
 Power BI Dashboard (Optional): Interactive visualizations for executive-level insights on passenger satisfaction, routes, fares, and services.
-
-<img width="256" height="256" alt="singapore-airlines-logo" src="https://github.com/user-attachments/assets/721683fe-77b2-46aa-ab04-793dd2ba5e48" />
 
 
