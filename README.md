@@ -1,8 +1,10 @@
-# -Singapore-Airlines-Customer-Satisfaction-Analysis
+# -Singapore-Airlines-Customer-Satisfaction-Analysis <img width="256" height="256" alt="singapore-airlines-logo-tail" src="https://github.com/user-attachments/assets/87273b95-a8d7-4de8-a3ae-64c2525e5c1d" />
+
 This project focuses on analyzing customer satisfaction data for Singapore Airlines using a large-scale passenger dataset stored in Azure SQL Database and accessed through Jupyter Notebook with Python. 
 
 
 ## Project Overview
+
 
 Airlines around the world are constantly striving to improve the passenger experience, enhance operational efficiency, and maximize customer satisfaction. Singapore Airlines, renowned for its world-class service, has been a leader in passenger comfort, premium services, and route innovation. This project focuses on analyzing customer satisfaction data for passengers flying with Singapore Airlines, uncovering insights about passenger preferences, travel behaviors, and service impact on ratings.
 
@@ -45,3 +47,7 @@ Azure SQL Database: The dataset is stored in a cloud-based SQL environment, simu
 Jupyter Notebook (Python): Comprehensive data cleaning, exploration, and analysis using Pandas, NumPy, and Matplotlib/Seaborn.
 
 Power BI Dashboard (Optional): Interactive visualizations for executive-level insights on passenger satisfaction, routes, fares, and services.
+
+<img width="256" height="256" alt="singapore-airlines-logo" src="https://github.com/user-attachments/assets/721683fe-77b2-46aa-ab04-793dd2ba5e48" />
+
+
